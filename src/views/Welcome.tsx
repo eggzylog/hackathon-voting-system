@@ -4,7 +4,7 @@ const Welcome = () => {
   return (
     <div className="bg-sky-50">
       <Screen>
-        <h1 className="text-4xl">Welcome!</h1>
+        <h1 className="text-4xl">Welcome D'Rocketeers!</h1>
       </Screen>
     </div>
   )
